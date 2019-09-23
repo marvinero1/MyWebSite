@@ -1,0 +1,3 @@
+django-admin startproject nombreProyecto   #Creacion de nuevo proyecto.
+python manage.py runserve  #correr servidor.
+python manage.py --help  #ayuda en comandos
